@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Serif:opsz,wght@8..144,700&display=swap" rel="stylesheet">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RocketCoffee</title>
+
+		<link rel="stylesheet" href="./style.css">
+  </head>
+
+  <body>
+
+    <header>
+      <h1>Rocket<span>Coffee</span></h1>
+      <p>por <strong><em>Sidney Pedro da Silva</strong></em></p>
+      <br>
+      <p>Aberto todos os dias. 8h-21h</p>
+    </header>
+
+    <section>
+      <h2>Brunch</h2>
+
+      <ul>
+        <li>
+          <div class="details">
+            <h3>Waffle Doce</h3>
+            <p class="description">
+              O waffle mais delicioso de todos os restaurantes, com o segredo da casa. 
+            </p>
+          </div>
+
+          <strong class="price">
+            R$37,70
+          </strong>
+        </li>
+
+        <li>
+          <div class="details">
+            <h3>Maça Doce</h3>
+            <p class="description">
+              Clássico doce de maça estilo francês, da casa. 
+            </p>
+          </div>
+
+          <strong class="price">
+            R$17,70
+          </strong>
+        </li>
+
+      </ul>
+    </section>
+
+    <section>
+      <h2>Bebidas</h2>
+
+      <ul>
+        <li>
+          <div class="details">
+            <h3>Vinhos</h3>
+            <p class="description">
+              Carta de vinhos clássicos. 
+            </p>
+          </div>
+
+          <strong class="price">
+            R$37.70
+          </strong>
+        </li>
+
+        <li>
+          <div class="details">
+            <h3>Água com gás</h3>
+            <p class="description">
+              Diversas marcas e fontes. 
+            </p>
+          </div>
+
+          <strong class="price">
+            R$10,00
+          </strong>
+        </li>
+
+      </ul>
+    </section>
+
+
+    <section>
+      <h2>Comidas</h2>
+
+      <ul>
+        <li>
+          <div class="details">
+            <h3>Carnes Vegetais</h3>
+            <p class="description">
+              Para veganos e vegetarianos com requinte inigualável. 
+            </p>
+          </div>
+
+          <strong class="price">
+            R$40,00
+          </strong>
+        </li>
+
+        <li>
+          <div class="details">
+            <h3>Arroz</h3>
+            <p class="description">
+              Clássico arroz vegano, amarelinho e soltinho. 
+            </p>
+          </div>
+
+          <strong class="price">
+            R$20,00
+          </strong>
+        </li>
+
+      </ul>
+    </section>
+
+  </body>
+</html>
